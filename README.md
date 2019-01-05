@@ -1,5 +1,9 @@
 # empmanager
 
+This was a project I built from a tutorial a while back. I plan to update this project later this year.
+
+For a live example, check it out [here](https://dills122.github.io/Employee-Manager/)
+
 > Employee Manager
 
 ## Build Setup
